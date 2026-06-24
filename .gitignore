@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+
+employees.db
+
+.vscode/
+
+uploads/
+
+*.xlsx
+*.xls
